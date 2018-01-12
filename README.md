@@ -34,6 +34,14 @@ arstay
 eethray  
 eagleway  
 tryay  
+eastbay
+oughday
+appyhay
+estionquay
+arstay
+hreetay
+eagleway
+tryay
 6. Submit the URL of your finished PigLatin repository to the school loop drop box.
 
 Comparing letters of a String
